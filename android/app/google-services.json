@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986497104134",
+    "project_id": "sociallogin-4a851",
+    "storage_bucket": "sociallogin-4a851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986497104134:android:9a6d9e22656c14cf594687",
+        "android_client_info": {
+          "package_name": "com.stripeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986497104134-0junt6bh8sv1om8flvhr59tvji6h0nn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stripeapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "986497104134-1piulme1foc1oan3unqr5n84pdflk2pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDoLVtUXMA-ZUBcCN7gqEj6BVnoSc0GDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986497104134-1piulme1foc1oan3unqr5n84pdflk2pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

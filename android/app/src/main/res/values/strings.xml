@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">stripeApp</string>
+<string name="facebook_app_id">465221502347766</string>
+   <string name="facebook_client_token">f3a919980ade25710f9018b94ff5f24a</string> 
+   <string name="fb_login_protocol_scheme">fb1234</string>
+ <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyADuimU1lox_YRLpuKqBJH848X1nzKzQ8c</string>
+
+
+</resources>
