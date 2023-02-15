@@ -16,6 +16,8 @@ import ChangeLanguage from './src/settings/language'
 const Tab = createBottomTabNavigator();
 
 const App = () => {
+  console.log("jhfhdhf");
+  
   return (
     <NavigationContainer>
       <View style={styles.contanier}>
