@@ -16,8 +16,7 @@ import ChangeLanguage from './src/settings/language'
 const Tab = createBottomTabNavigator();
 
 const App = () => {
-  console.log("weelojbjm");
-  
+  alert("kkkkkkkkkkkkkkkkk")
   return (
     <NavigationContainer>
       <View style={styles.contanier}>
@@ -31,6 +30,7 @@ const App = () => {
               <Tab.Screen name="Login" component={Login} />
               <Tab.Screen name="PaymentScreen" component={PaymentScreen} />
               <Tab.Screen name="map" component={MapArea} />
+              <Tab.Screen name="profile" component={ChangeLanguage} />
               <Tab.Screen name="profile" component={ChangeLanguage} />
             </Tab.Navigator>
 
