@@ -31,6 +31,7 @@ const App = () => {
               <Tab.Screen name="PaymentScreen" component={PaymentScreen} />
               <Tab.Screen name="map" component={MapArea} />
               <Tab.Screen name="profile" component={ChangeLanguage} />
+              <Tab.Screen name="profile" component={ChangeLanguage} />
             </Tab.Navigator>
 
         
